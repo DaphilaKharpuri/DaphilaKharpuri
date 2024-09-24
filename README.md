@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaphilaKharpuri
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning and Data Science
+- 👀 I’m interested in Data Science/FasfionFinance/Luxury Brand Management
+- 🌱 I’m currently learning Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me daphilakharpuri@gmail.com
 
